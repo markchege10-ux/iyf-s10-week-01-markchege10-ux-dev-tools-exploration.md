@@ -57,4 +57,7 @@
     * Inputs:
 
          * A text input field for the srarch query, likely an <input type="text" id="search" name="search" or similar
-         * A submit button, which could be a <button type="submit"> or an <input type="submit"> 
+         * A submit button, which could be a <button type="submit"> or an <input type="submit">
+     
+      
+ screenshot of the Elements panel (<img width="1280" height="800" alt="Screenshot 2026-02-24 155323" src="https://github.com/user-attachments/assets/4c9ffbf8-c34d-4f65-82e8-86291168f7d3" />)

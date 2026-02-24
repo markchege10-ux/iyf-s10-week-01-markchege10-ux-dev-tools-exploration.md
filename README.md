@@ -29,7 +29,8 @@ used on different browsers
 I have learned how to use the developer tools to run codes
 
 ## Challenges Faced
-
+I encountered challenges such as i didnt know where to find the developer tools
+I solved it by reasearch
 
 ## Screenshots (optional)
 
